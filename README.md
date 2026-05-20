@@ -5,8 +5,7 @@
 
 ### 📫 How to reach me
 
-- ![https%3A%2F%2Fwww.linkedin.com%2Fin%2Fedgargarciaparra](https://img.shields.io/badge/LinkedIn-up-green?style=for-the-badge)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgargarciaparra)
 
 <!---
 EJonathanGarcia/EJonathanGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
