@@ -12,6 +12,8 @@ EJonathanGarcia/EJonathanGarcia is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-### :zap: Mi actividad reciente
-<!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
+### Mi Actividad reciente en GitHub
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
