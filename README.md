@@ -13,7 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Mi Actividad reciente en GitHub
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
